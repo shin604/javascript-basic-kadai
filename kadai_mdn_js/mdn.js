@@ -1,6 +1,6 @@
 const start = Date.now();
 
-const today = new Date("August 22, 2023");
+const today = new Date("November 12, 2023");
 
 const year = today.getFullYear();
 
